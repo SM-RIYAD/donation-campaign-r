@@ -1,0 +1,125 @@
+{
+    "donation_data": [
+      {
+        "Picture": "https://img.freepik.com/free-photo/group-volunteers-with-donation-box_1170-1806.jpg?size=626&ext=jpg&ga=GA1.1.2010618524.1694701074&semt=ais",
+        "Title": "Support Children's Health",
+        "Category": "Health",
+        "Color_for_category_bg": "#5585b5",
+        "Color_for_card_bg": "#bbe4e9",
+        "Color_for_textandbuttonbackground": "#79c2d0",
+        "Description": "Your donation will have a profound impact on the health of children in need. We believe that every child deserves access to quality healthcare, and with your support, we can make this a reality. Together, we can provide critical medical care, preventive measures, and essential treatments to children facing health challenges. Your contribution will make a lasting difference in the lives of these young individuals, ensuring they have the opportunity to lead healthier, happier lives. Join us today in our mission to support children's health and create a brighter future for our next generation.",
+        "Price": "$50"
+      },
+      {
+        "Picture": "https://img.freepik.com/free-photo/volunteer-helping-with-donation-box_23-2149230505.jpg?size=626&ext=jpg&ga=GA1.1.2010618524.1694701074&semt=ais",
+        "Title": "Empower Education Initiatives",
+        "Category": "Education",
+        "Color_for_category_bg": "#FF444A",
+        "Color_for_card_bg": "#FF444926",
+        "Color_for_textandbuttonbackground": "#FF4449CC",
+        "Description": "Our mission is to empower education initiatives that provide equal learning opportunities for all. By donating, you are helping us bridge the educational gap and provide quality education to underserved communities. We believe education is a fundamental right, and your support will ensure that no child is left behind. With your contribution, we can provide resources, scholarships, and educational programs that empower young minds to reach their full potential. Join us in this transformative journey towards a brighter and more equitable future through education.",
+        "Price": "$40"
+      },
+      {
+        "Picture": "https://img.freepik.com/free-photo/clothing-rack-with-floral-hawaiian-shirts-hangers-hat_23-2149366018.jpg?size=626&ext=jpg&ga=GA1.1.2010618524.1694701074&semt=sph",
+        "Title": "Warmth for All Seasons",
+        "Category": "Clothing",
+        "Color_for_category_bg": "#79C23F",
+        "Color_for_card_bg": "#79C23F26",
+        "Color_for_textandbuttonbackground": "#79C23F33",
+        "Description": "Help us provide warmth and comfort to those in need during all seasons. Your generous donation will go towards clothing those less fortunate with love and dignity. We believe that everyone deserves to feel warm and secure, and your contribution will make that possible. Whether it's winter coats, cozy sweaters, or essential clothing items, your support will ensure that individuals and families can face the cold with confidence and comfort. Join us in spreading warmth and kindness throughout the year.",
+        "Price": "$20"
+      },
+      {
+        "Picture": "https://img.freepik.com/free-photo/close-up-people-holding-apples-bag_23-2149182018.jpg?size=626&ext=jpg&ga=GA1.2.2010618524.1694701074&semt=ais",
+        "Title": "Eradicate Hunger Together",
+        "Category": "Food",
+        "Color_for_category_bg": "#F87147",
+        "Color_for_card_bg": "#F8714726",
+        "Color_for_textandbuttonbackground": "#F87147CC",
+        "Description": "Join our mission to eradicate hunger in our community. Your generous donation will provide nutritious meals to those in need, offering not only sustenance but also hope. We believe that no one should go to bed hungry, and with your support, we can make that a reality. Together, we can create a world where everyone has access to the nourishment they need for a healthy life. Your contribution will not only fill empty stomachs but also fill hearts with gratitude and a sense of belonging. Be a part of our journey to end hunger.",
+        "Price": "$10"
+      },
+      {
+        "Picture": "https://img.freepik.com/free-photo/group-volunteers-with-donation-box_1170-1806.jpg?size=626&ext=jpg&ga=GA1.1.2010618524.1694701074&semt=ais",
+        "Title": "Caring for Young Lives",
+        "Category": "Health",
+        "Color_for_category_bg": "#5585b5",
+        "Color_for_card_bg": "#bbe4e9",
+        "Color_for_textandbuttonbackground": "#79c2d0",
+        "Description": "Support children's health with your donation. Together, we can ensure a healthier future for our youngest community members. Your contribution will enable us to provide essential healthcare services, medical treatments, and preventive care to children facing health challenges. We believe that every child deserves a chance at a healthy and happy life, and your support will make that possible. Join us in caring for young lives and making a significant impact on the well-being of our community's future generations.",
+        "Price": "$30"
+      },
+      {
+        "Picture": "https://img.freepik.com/free-photo/volunteer-helping-with-donation-box_23-2149230505.jpg?size=626&ext=jpg&ga=GA1.1.2010618524.1694701074&semt=ais",
+        "Title": "Transforming Education",
+        "Category": "Education",
+        "Color_for_category_bg": "#FF444A",
+        "Color_for_card_bg": "#FF444926",
+        "Color_for_textandbuttonbackground": "#FF4449CC",
+        "Description": "Your donation supports transformative education initiatives. Together, we can create opportunities for every child to learn, grow, and thrive. By contributing, you are helping us provide educational resources, scholarships, and innovative programs that empower underserved students. We believe that education is the key to a brighter future, and with your support, we can unlock doors of opportunity for those who need it most. Join us in shaping a world where every child has the chance to succeed.",
+        "Price": "$25"
+      },
+      {
+        "Picture": "https://img.freepik.com/free-photo/clothing-rack-with-floral-hawaiian-shirts-hangers-hat_23-2149366018.jpg?size=626&ext=jpg&ga=GA1.1.2010618524.1694701074&semt=sph",
+        "Title": "Dressing with Dignity",
+        "Category": "Clothing",
+        "Color_for_category_bg": "#79C23F",
+        "Color_for_card_bg": "#79C23F26",
+        "Color_for_textandbuttonbackground": "#79C23F33",
+        "Description": "Help us provide clothing with dignity and respect. Your donation makes a significant difference in the lives of those less fortunate. We believe that everyone deserves to dress with pride, and your contribution will make that possible. Whether it's professional attire, school uniforms, or everyday clothing, your support will help individuals and families feel confident and respected. Join us in spreading dignity and clothing those in need.",
+        "Price": "$15"
+      },
+      {
+        "Picture": "https://img.freepik.com/free-photo/close-up-people-holding-apples-bag_23-2149182018.jpg?size=626&ext=jpg&ga=GA1.2.2010618524.1694701074&semt=ais",
+        "Title": "Nourishing Hope",
+        "Category": "Food",
+        "Color_for_category_bg": "#F87147",
+        "Color_for_card_bg": "#F8714726",
+        "Color_for_textandbuttonbackground": "#F87147CC",
+        "Description": "Be a part of our mission to nourish hope in our community. Your generous donation provides not only food security but also a lifeline of hope to those in need. We believe that everyone deserves access to nutritious meals, and with your support, we can make that a reality. Together, we can create a world where no one has to worry about their next meal. Your contribution will not only fill empty stomachs but also fill hearts with gratitude and a renewed sense of hope. Join us in nourishing hope.",
+        "Price": "$5"
+      },
+      {
+        "Picture": "https://img.freepik.com/free-photo/group-volunteers-with-donation-box_1170-1806.jpg?size=626&ext=jpg&ga=GA1.1.2010618524.1694701074&semt=ais",
+        "Title": "Smiles for a Healthy Future",
+        "Category": "Health",
+        "Color_for_category_bg": "#5585b5",
+        "Color_for_card_bg": "#bbe4e9",
+        "Color_for_textandbuttonbackground": "#79c2d0",
+        "Description": "Support dental care for underserved communities. Your generous donation can bring healthy smiles to those in need. We believe that oral health is essential for overall well-being, and your contribution will make that possible. Together, we can provide dental care, preventive services, and treatments that transform lives and boost confidence. Join us today in our mission to bring smiles and good health to our community.",
+        "Price": "$45"
+      },
+      {
+        "Picture": "https://img.freepik.com/free-photo/volunteer-helping-with-donation-box_23-2149230505.jpg?size=626&ext=jpg&ga=GA1.1.2010618524.1694701074&semt=ais",
+        "Title": "Education for a Brighter Tomorrow",
+        "Category": "Education",
+        "Color_for_category_bg": "#FF444A",
+        "Color_for_card_bg": "#FF444926",
+        "Color_for_textandbuttonbackground": "#FF4449CC",
+        "Description": "Empower underserved students through education. Your generous donation paves the way for brighter futures, new opportunities, and endless possibilities. We believe that education is the cornerstone of progress, and with your support, we can build a foundation for success for all. Your contribution will provide access to resources, mentorship, and educational experiences that transform lives. Join us in shaping a brighter tomorrow through education.",
+        "Price": "$35"
+      },
+      {
+        "Picture": "https://img.freepik.com/free-photo/clothing-rack-with-floral-hawaiian-shirts-hangers-hat_23-2149366018.jpg?size=626&ext=jpg&ga=GA1.1.2010618524.1694701074&semt=sph",
+        "Title": "Share the Warmth of Compassion",
+        "Category": "Clothing",
+        "Color_for_category_bg": "#79C23F",
+        "Color_for_card_bg": "#79C23F26",
+        "Color_for_textandbuttonbackground": "#79C23F33",
+        "Description": "Your donation warms not only bodies but also hearts. Help us share the warmth of compassion with those in need this winter. We believe that everyone deserves to feel warm and cared for, and your contribution will make that possible. Whether it's coats, blankets, or cozy clothing, your support will provide comfort and security during the cold months. Join us in spreading the warmth of compassion and making a positive impact on the lives of individuals and families.",
+        "Price": "$18"
+      },
+      {
+        "Picture": "https://img.freepik.com/free-photo/close-up-people-holding-apples-bag_23-2149182018.jpg?size=626&ext=jpg&ga=GA1.2.2010618524.1694701074&semt=ais",
+        "Title": "Nourish Our Community Together",
+        "Category": "Food",
+        "Color_for_category_bg": "#F87147",
+        "Color_for_card_bg": "#F8714726",
+        "Color_for_textandbuttonbackground": "#F87147CC",
+        "Description": "Be a part of our mission to nourish our community together. Your generous donation provides not only food but also a sense of belonging and hope to those in need. We believe that no one should go hungry, and with your support, we can make that a reality. Together, we can create a world where everyone has access to the nourishment they need for a healthy and fulfilling life. Your contribution will not only fill empty stomachs but also fill hearts with gratitude and a renewed sense of community. Join us in nourishing our community together.",
+        "Price": "$8"
+      }
+    ]
+  }
+  
