@@ -1,6 +1,10 @@
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 import { useLoaderData, useParams } from "react-router-dom";
+import { saveDonation } from '../../Utilities/Utilities';
 const DonationDetails = () => {
+    const notify = () => toast("Donation added!");
     const all_donations = useLoaderData();
     const {donationid} = useParams();
     console.log("id from params",donationid)
@@ -9,9 +13,15 @@ const DonationDetails = () => {
     const specific_donation = all_donations.find(don => don.id === idInt);
     console.log("spec don",specific_donation )
     const {Picture,Price,Description,Color_for_category_bg,Title}= specific_donation;
+
+    const handleDonationDetails =()=>{
+        notify();
+        saveDonation(idInt);
+
+    }
     return (
         <div className="mx-20 relative mt-10  ">
-          
+           <ToastContainer />
             <div >
                  <img className="w-full h-[500px] object-fill" src={Picture}  />
 
@@ -21,7 +31,7 @@ const DonationDetails = () => {
 
                
             </div>
-            <button style={{background: `${Color_for_category_bg}`}} className=" ms-10 mt-5 border-0 absolute text-white btn btn-primary font-bold top-[390px]  text-red-white">Donate { Price} </button>
+            <button onClick={handleDonationDetails} style={{background: `${Color_for_category_bg}`}} className=" ms-10 mt-5 border-0 absolute text-white btn btn-primary font-bold top-[390px]  text-red-white">Donate { Price} </button>
 
             <div>
 
