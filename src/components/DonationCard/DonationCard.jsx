@@ -13,7 +13,7 @@ const DonationCard = ({ donation }) => {
   } = donation;
 
   const color_code = `text-red-500`;
-  console.log(color_code);
+
   return (
     <Link to={`/donationdetails/${id}`}>
       {" "}
