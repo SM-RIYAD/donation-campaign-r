@@ -11,9 +11,10 @@ const Header = () => {
 
             <div className="flex items-center justify-center lg:mt-0 mt-10 md:mt-10 gap-10 lg:flex-row flex-col md:flex-col">
 
-                <p>Home</p>
-                <p>Donation</p>
-                <p>Statistics</p>
+            <NavLink to="/">  <p>Home</p>  </NavLink>
+            <NavLink to="/donation">   <p>Donation</p>  </NavLink>
+            <NavLink to="/statistics">   <p>Statistics</p> </NavLink>
+                
             </div>
         </div>
     );
