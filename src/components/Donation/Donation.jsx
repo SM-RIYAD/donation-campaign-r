@@ -4,8 +4,9 @@ import AddedDonationCard from "../AddedDonationCard/AddedDonationCard";
 import { useEffect, useState } from "react";
 const Donation = () => {
   const [all_donations, set_ALl_Donations] = useState([]);
+  const [show_see_all, set_show_see_all] = useState(false);
   const [selected_donations_state, set_selected_Donations] = useState([]);
-
+  const [statesToSHow, set_statesToSHow] = useState([]);
 
   useEffect(() => {
     fetch("../../../public/data.json")
@@ -29,23 +30,47 @@ const Donation = () => {
         }
       }
       set_selected_Donations(selected_donations);
-
-      ///
+     if( selected_donations.length>4)
+     { set_statesToSHow(selected_donations.slice(0,4))
+        set_show_see_all(true);
+    
+    }
+      else set_statesToSHow(selected_donations);
     }
   }, [all_donations]);
-
+const handleSeeAll= ()=>{
+    set_statesToSHow(selected_donations_state);
+    set_show_see_all(false);
+    
+}
   console.log("state: ", selected_donations_state);
 
 
-
   return (
-    <div className="grid mx-20 my-10 lg:grid-cols-2 md:grid-cols-1 grid-cols-1 gap-10 ">
+    <div>
     
-      {selected_donations_state.map((marked_donation,idx) => {
-        return <AddedDonationCard key={idx}
-          marked_donation={marked_donation}
-        ></AddedDonationCard>;
-      })}
+      <div className="grid mx-20 my-10 lg:grid-cols-2 md:grid-cols-1 grid-cols-1 gap-5 ">
+   
+        
+{
+        
+        statesToSHow.map((marked_donation, idx) => {
+          return (
+            <AddedDonationCard
+              key={idx}
+              marked_donation={marked_donation}
+            ></AddedDonationCard>
+          );
+        })
+        
+        
+        
+        }
+      </div>{" "}
+      {show_see_all&&<div className="mx-20   flex justify-center">
+      <button onClick={handleSeeAll} className="btn text-white btn-accent" >See all</button>
+      </div>}
+      
     </div>
   );
 };
