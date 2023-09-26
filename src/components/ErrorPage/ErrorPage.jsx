@@ -7,7 +7,7 @@ const ErrorPage = () => {
    
      
         <p className=" text-4xl text-red-600 font-bold">
-        Page not found!   Go back to where you from   <Link to="/">
+        Page not found!   Go back to   <Link to="/">
           <button className="btn btn-error">Home</button>
         </Link>
       

@@ -1,8 +1,14 @@
-# React + Vite
+Q Add at least three project features.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Answer: 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. This a project where user can select different events for donating.
+
+2. We used react router in this project. If use clicks an event the router will move the interface to the donation detail page.
+
+3. User can donate to the event by clicking the donate button there.
+
+4. User can see how many events they had selected in a page.
+
+5. User can see a statistical overview with the help of a pie chart of his donations in the statistics page.
