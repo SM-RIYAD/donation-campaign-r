@@ -41,7 +41,7 @@ const Home = () => {
 
         <div className="relative  ">
           <h1 className="lg:text-4xl lg:px-0 md:px-0 px-3    text-xl lg:pt-20  font-bold md:text-4xl text-center ">
-            I Grow By Helping People In Need
+          I thrive through assisting those in need
           </h1>
           <div className="flex justify-center lg:mt-10 md:mt-10 mt-3">
             <input

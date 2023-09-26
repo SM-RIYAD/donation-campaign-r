@@ -17,13 +17,13 @@ const DonationCard = ({ donation }) => {
   return (
     <Link className="" to={`/donationdetails/${id}`}>
       {" "}
-      <div className="flex flex-col items-center    gap-3">
-        <div className="h-44 w-72 ">
-          <img src={Picture} alt="" />
+      <div className="flex  flex-col items-center    ">
+        <div className="h-72 w-72 border ">
+          <img className="h-72 object-fill" src={Picture} alt="" />
         </div>
         <div
           style={{ background: `${Color_for_card_bg}` }}
-          className="donation-elements h-30 w-72 "
+          className="donation-elements border h-36 w-72 "
         >
           <button
             className="m-2 mt-4 p-2"

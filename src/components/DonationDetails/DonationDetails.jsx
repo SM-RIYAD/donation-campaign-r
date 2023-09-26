@@ -20,7 +20,7 @@ const DonationDetails = () => {
 
     }
     return (
-        <div className="mx-20 relative mt-10  ">
+        <div className="lg:mx-20 md:mx-20 mx-5 relative mt-10  ">
            <ToastContainer />
             <div >
                  <img className="w-full h-[500px] object-fill" src={Picture}  />
