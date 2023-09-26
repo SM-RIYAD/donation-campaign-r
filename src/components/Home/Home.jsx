@@ -11,7 +11,7 @@ console.log("search word after",searchWord )
 fetch("data.json")
 .then((data) => data.json())
 .then((data) =>{ 
-  let new_data=data.filter(specific_Data=>specific_Data.Category===searchWord )
+  let new_data=data.filter(specific_Data=>specific_Data.Category.toLowerCase()===searchWord.toLowerCase() )
   setDonations(new_data)
 
 

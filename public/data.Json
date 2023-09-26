@@ -1,15 +1,5 @@
 [
-  {
-    "id": 1,
-    "Picture": "https://img.freepik.com/free-photo/group-volunteers-with-donation-box_1170-1806.jpg?size=626&ext=jpg&ga=GA1.1.2010618524.1694701074&semt=ais",
-    "Title": "Support Children's Health",
-    "Category": "Health",
-    "Color_for_category_bg": "#5585b5",
-    "Color_for_card_bg": "#bbe4e9",
-    "Color_for_textandbuttonbackground": "#79c2d0",
-    "Description": "Your donation will have a profound impact on the health of children in need. We believe that every child deserves access to quality healthcare, and with your support, we can make this a reality. Together, we can provide critical medical care, preventive measures, and essential treatments to children facing health challenges. Your contribution will make a lasting difference in the lives of these young individuals, ensuring they have the opportunity to lead healthier, happier lives. Join us today in our mission to support children's health and create a brighter future for our next generation.",
-    "Price": "$50"
-  },
+ 
   {
     "id": 2,
     "Picture": "https://img.freepik.com/free-photo/volunteer-helping-with-donation-box_23-2149230505.jpg?size=626&ext=jpg&ga=GA1.1.2010618524.1694701074&semt=ais",
@@ -22,16 +12,17 @@
     "Price": "$40"
   },
   {
-    "id": 3,
-    "Picture": "https://img.freepik.com/free-photo/clothing-rack-with-floral-hawaiian-shirts-hangers-hat_23-2149366018.jpg?size=626&ext=jpg&ga=GA1.1.2010618524.1694701074&semt=sph",
-    "Title": "Warmth for All Seasons",
-    "Category": "Clothing",
-    "Color_for_category_bg": "#79C23F",
-    "Color_for_card_bg": "#79C23F26",
-    "Color_for_textandbuttonbackground": "#79C23F33",
-    "Description": "Help us provide warmth and comfort to those in need during all seasons. Your generous donation will go towards clothing those less fortunate with love and dignity. We believe that everyone deserves to feel warm and secure, and your contribution will make that possible. Whether it's winter coats, cozy sweaters, or essential clothing items, your support will ensure that individuals and families can face the cold with confidence and comfort. Join us in spreading warmth and kindness throughout the year.",
-    "Price": "$20"
+    "id": 1,
+    "Picture": "https://img.freepik.com/free-photo/group-volunteers-with-donation-box_1170-1806.jpg?size=626&ext=jpg&ga=GA1.1.2010618524.1694701074&semt=ais",
+    "Title": "Support Children's Health",
+    "Category": "Health",
+    "Color_for_category_bg": "#5585b5",
+    "Color_for_card_bg": "#bbe4e9",
+    "Color_for_textandbuttonbackground": "#79c2d0",
+    "Description": "Your donation will have a profound impact on the health of children in need. We believe that every child deserves access to quality healthcare, and with your support, we can make this a reality. Together, we can provide critical medical care, preventive measures, and essential treatments to children facing health challenges. Your contribution will make a lasting difference in the lives of these young individuals, ensuring they have the opportunity to lead healthier, happier lives. Join us today in our mission to support children's health and create a brighter future for our next generation.",
+    "Price": "$50"
   },
+
   {
     "id": 4,
     "Picture": "https://img.freepik.com/free-photo/close-up-people-holding-apples-bag_23-2149182018.jpg?size=626&ext=jpg&ga=GA1.2.2010618524.1694701074&semt=ais",
@@ -42,18 +33,18 @@
     "Color_for_textandbuttonbackground": "#F8B6A6", 
     "Description": "Join our mission to eradicate hunger in our community. Your generous donation will provide nutritious meals to those in need, offering not only sustenance but also hope. We believe that no one should go to bed hungry, and with your support, we can make that a reality. Together, we can create a world where everyone has access to the nourishment they need for a healthy life. Your contribution will not only fill empty stomachs but also fill hearts with gratitude and a sense of belonging. Be a part of our journey to end hunger.",
     "Price": "$10"
+  },  {
+    "id": 3,
+    "Picture": "https://img.freepik.com/free-photo/clothing-rack-with-floral-hawaiian-shirts-hangers-hat_23-2149366018.jpg?size=626&ext=jpg&ga=GA1.1.2010618524.1694701074&semt=sph",
+    "Title": "Warmth for All Seasons",
+    "Category": "Clothing",
+    "Color_for_category_bg": "#79C23F",
+    "Color_for_card_bg": "#79C23F26",
+    "Color_for_textandbuttonbackground": "#79C23F33",
+    "Description": "Help us provide warmth and comfort to those in need during all seasons. Your generous donation will go towards clothing those less fortunate with love and dignity. We believe that everyone deserves to feel warm and secure, and your contribution will make that possible. Whether it's winter coats, cozy sweaters, or essential clothing items, your support will ensure that individuals and families can face the cold with confidence and comfort. Join us in spreading warmth and kindness throughout the year.",
+    "Price": "$20"
   },
-  {
-    "id": 5,
-    "Picture": "https://img.freepik.com/free-photo/group-volunteers-with-donation-box_1170-1806.jpg?size=626&ext=jpg&ga=GA1.1.2010618524.1694701074&semt=ais",
-    "Title": "Caring for Young Lives",
-    "Category": "Health",
-    "Color_for_category_bg": "#5585b5",
-    "Color_for_card_bg": "#bbe4e9",
-    "Color_for_textandbuttonbackground": "#79c2d0",
-    "Description": "Support children's health with your donation. Together, we can ensure a healthier future for our youngest community members. Your contribution will enable us to provide essential healthcare services, medical treatments, and preventive care to children facing health challenges. We believe that every child deserves a chance at a healthy and happy life, and your support will make that possible. Join us in caring for young lives and making a significant impact on the well-being of our community's future generations.",
-    "Price": "$30"
-  },
+
   {
     "id": 6,
     "Picture": "https://img.freepik.com/free-photo/volunteer-helping-with-donation-box_23-2149230505.jpg?size=626&ext=jpg&ga=GA1.1.2010618524.1694701074&semt=ais",
@@ -86,6 +77,16 @@
     "Color_for_textandbuttonbackground": "#F8B6A6", 
     "Description": "Be a part of our mission to nourish hope in our community. Your generous donation provides not only food but also a sense of belonging and hope to those in need. We believe that no one should go hungry, and with your support, we can make that a reality. Together, we can create a world where everyone has access to the nourishment they need for a healthy and fulfilling life. Your contribution will not only fill empty stomachs but also fill hearts with gratitude and a renewed sense of community. Join us in nourishing our community together.",
     "Price": "$8"
+  },  {
+    "id": 5,
+    "Picture": "https://img.freepik.com/free-photo/group-volunteers-with-donation-box_1170-1806.jpg?size=626&ext=jpg&ga=GA1.1.2010618524.1694701074&semt=ais",
+    "Title": "Caring for Young Lives",
+    "Category": "Health",
+    "Color_for_category_bg": "#5585b5",
+    "Color_for_card_bg": "#bbe4e9",
+    "Color_for_textandbuttonbackground": "#79c2d0",
+    "Description": "Support children's health with your donation. Together, we can ensure a healthier future for our youngest community members. Your contribution will enable us to provide essential healthcare services, medical treatments, and preventive care to children facing health challenges. We believe that every child deserves a chance at a healthy and happy life, and your support will make that possible. Join us in caring for young lives and making a significant impact on the well-being of our community's future generations.",
+    "Price": "$30"
   },
   {
     "id": 9,
