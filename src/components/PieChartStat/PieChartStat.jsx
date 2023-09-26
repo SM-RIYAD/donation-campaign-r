@@ -44,7 +44,7 @@ const PieChartStat = () => {
   ];
 
   return (
-    <div className=" h-[550px] flex flex-col items-center ">
+    <div className=" h-[450px] lg:w-full md:w-full w-[300px] flex flex-col    items-center ">
    
       <PieChart width={500} height={800}>
         <Pie
@@ -53,7 +53,7 @@ const PieChartStat = () => {
           cy={250}
           labelLine={false}
           label={renderCustomizedLabel}
-          outerRadius={200}
+          outerRadius={150}
           fill="#8884d8"
           dataKey="value"
         >

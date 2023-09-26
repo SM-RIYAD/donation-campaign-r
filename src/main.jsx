@@ -11,19 +11,7 @@ import Donation from "./components/Donation/Donation";
 import Statistics from "./components/Statistics/Statistics";
 import DonationDetails from "./components/DonationDetails/DonationDetails";
 import ErrorPage from "./components/ErrorPage/ErrorPage";
-// const router = createBrowserRouter([
-//   {
-//     path: "/",
-//     element: <Root></Root>,
-//   },
-//    children: [
-//     {
-//       path: '/',
-//       element: <Home></Home>
-//     }, 
-  
-//   ]
-// ]);
+
 
 const router = createBrowserRouter([
   {
@@ -49,7 +37,7 @@ const router = createBrowserRouter([
       {
         path: '/donationdetails/:donationid',
         element: <DonationDetails></DonationDetails>,
-        loader: () => fetch('../public/data.json')
+        loader: () => fetch('/data.json')
 
       },
     

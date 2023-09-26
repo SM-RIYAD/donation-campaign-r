@@ -10,15 +10,15 @@ const Header = () => {
       <nav className="flex items-center justify-center z-30 lg:mt-0 mt-10 md:mt-10 gap-10 lg:flex-row flex-col md:flex-col">
         <NavLink to="/">
           {" "}
-          <p>Home</p>{" "}
+          <p className="font-bold">Home</p>{" "}
         </NavLink>
         <NavLink to="/donation">
           {" "}
-          <p>Donation</p>{" "}
+          <p className="font-bold">Donation</p>{" "}
         </NavLink>
         <NavLink to="/statistics">
           {" "}
-          <p>Statistics</p>{" "}
+          <p className="font-bold">Statistics</p>{" "}
         </NavLink>
       </nav>
     </div>

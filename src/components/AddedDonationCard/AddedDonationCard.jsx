@@ -13,10 +13,10 @@ Price,
   } = marked_donation;
   console.log("hi ", marked_donation);
   return (
-    <div className=" rounded-lg flex lg:flex-row md:flex-row flex-col  md:w-[600px] w-[300px] lg:w-[600px] lg:h-56  md:h-56 h-full ">
+    <div className=" border shadow-lg rounded-lg flex lg:flex-row md:flex-row flex-col  md:w-[600px] w-full lg:w-[600px] lg:h-56  md:h-56 h-full ">
       <img className=" lg:w-1/3 md:w-1/3 lg:h-full md:h-full  object-fill" src={Picture} alt="" />
 
-      <div className="rounded-lg  lg:w-2/3 md:w-2/3  w-[300px] p-10 lg:h-full md:h-full   " style={{ background: `${Color_for_card_bg}` }}>
+      <div className="rounded-lg  lg:w-2/3 md:w-2/3  w-full p-10 lg:h-full md:h-full   " style={{ background: `${Color_for_card_bg}` }}>
         <button
           className="p-2 font-bold"
           style={{

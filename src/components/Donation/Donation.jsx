@@ -9,7 +9,7 @@ const Donation = () => {
   const [statesToSHow, set_statesToSHow] = useState([]);
 
   useEffect(() => {
-    fetch("../../../public/data.json")
+    fetch("/data.json")
       .then((res) => res.json())
       .then((data) => set_ALl_Donations(data));
   }, []);
@@ -49,7 +49,7 @@ const handleSeeAll= ()=>{
   return (
     <div>
     
-      <div className="grid mx-20 my-10 lg:grid-cols-2 md:grid-cols-1 grid-cols-1 gap-5 ">
+      <div className="grid lg:mx-20  md:mx-20  mx-10 my-10 lg:grid-cols-2 md:grid-cols-1 grid-cols-1 gap-5 ">
    
         
 {

@@ -15,15 +15,15 @@ const DonationCard = ({ donation }) => {
 
 
   return (
-    <Link to={`/donationdetails/${id}`}>
+    <Link className="" to={`/donationdetails/${id}`}>
       {" "}
-      <div className="flex flex-col w-72 rounded-full  gap-3">
+      <div className="flex flex-col items-center    gap-3">
         <div className="h-44 w-72 ">
           <img src={Picture} alt="" />
         </div>
         <div
           style={{ background: `${Color_for_card_bg}` }}
-          className="donation-elements h-30 "
+          className="donation-elements h-30 w-72 "
         >
           <button
             className="m-2 mt-4 p-2"
